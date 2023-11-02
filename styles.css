@@ -12,6 +12,7 @@
 	display: inline-block;
 }
 .all :nth-child(2){
+	
 	display: flex;
 	width: 300px;
 	background-color: white;
@@ -45,6 +46,7 @@
 }
 .signup{
 	    background-color: #42b72a;
+	
 }
 
 
